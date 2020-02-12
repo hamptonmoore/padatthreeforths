@@ -1,0 +1,16 @@
+{
+  "name": "padatthreeoforths",
+  "version": "1.0.0",
+  "description": "A simple function to pad a string at the three forths mark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hampton Moore",
+  "license": "MIT",
+  "dependencies": {
+    "is-character": "^1.0.0",
+    "is-number": "^7.0.0",
+    "is-string": "^1.0.5"
+  }
+}
